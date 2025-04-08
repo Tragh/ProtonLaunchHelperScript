@@ -10,5 +10,5 @@ Failing that, place it in the same directory as your .exe and run it there but t
 The basic flow is:
 1) select a .exe to run
 2) select a proton version to use
-3) 3 select a cdata folder
+3) select a compat data folder
 4) send it!
