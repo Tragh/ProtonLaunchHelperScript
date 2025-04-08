@@ -12,3 +12,5 @@ The basic flow is:
 2) select a proton version to use
 3) select a compat data folder
 4) send it!
+
+for winecfg select custom command instead of a .exe and type winecfg
